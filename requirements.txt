@@ -1,0 +1,6 @@
+aiogram==2.14.3
+uvloop
+ujson
+cchardet
+aiodns
+aiohttp[speedups]
